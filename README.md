@@ -1,6 +1,6 @@
 # Datagile-Тестовое задание
 
-Автоматизированные тесты для проверки сайта https://www.yandex.ru и скачивания файлов с https://www.gaz-is.ru/produkty/upravlenie-ib/ankey-idm
+Автоматизированные тесты для проверки поисковой выдачи с сайта https://www.yandex.ru по запросу "Газинформсервис" , перехода на сайт https://www.gaz-is.ru/ и скачивания файлов с раздела  https://www.gaz-is.ru/produkty/upravlenie-ib/ankey-idm
 
 Также содержит API-тесты для получения данных о погоде через REST API:https://projecteol.ru/api/weather/
 
