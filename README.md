@@ -121,3 +121,5 @@ src/
   Облачность:          40%
   УФ-индекс:           2
   Описание погоды:     Облачно
+
+PS ошибка WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137- Предупреждение , которое говорит о том что браузер Chrome  версии 137, а в текущей версии Selenium поддерживается только CDP v135 , на основную работу тестов не влияет , версия выше v135 в настоящий момент отсутствует
