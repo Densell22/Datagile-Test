@@ -77,7 +77,7 @@ src/
 
 ## Как запустить проект
 * Вариант 1: Через IntelliJ IDEA
-- В IntelliJ IDEA нажмите Get from VCS или Open or Import Project
+- В IntelliJ IDEA в начальном меню нажмите clone repository
 - Введи URL репозитория: https://github.com/Densell22/Datagile-Test.git
 - Дождитесь, пока Maven подтянет все зависимости
 - В терминале maven введите команду mvn test
